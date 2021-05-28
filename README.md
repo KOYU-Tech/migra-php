@@ -1,3 +1,6 @@
+**It was made when we had to support and upgrade some old projects without db migrations. Nowdays it isn't useful anymore.**
+
+
 MigraPHP
 ========
 
